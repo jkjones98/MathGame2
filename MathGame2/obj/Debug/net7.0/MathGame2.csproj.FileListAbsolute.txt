@@ -1,0 +1,15 @@
+/Users/jj/Git/MathGame2/MathGame2/MathGame2/bin/Debug/net7.0/MathGame2
+/Users/jj/Git/MathGame2/MathGame2/MathGame2/bin/Debug/net7.0/MathGame2.deps.json
+/Users/jj/Git/MathGame2/MathGame2/MathGame2/bin/Debug/net7.0/MathGame2.runtimeconfig.json
+/Users/jj/Git/MathGame2/MathGame2/MathGame2/bin/Debug/net7.0/MathGame2.dll
+/Users/jj/Git/MathGame2/MathGame2/MathGame2/bin/Debug/net7.0/MathGame2.pdb
+/Users/jj/Git/MathGame2/MathGame2/MathGame2/obj/Debug/net7.0/MathGame2.csproj.AssemblyReference.cache
+/Users/jj/Git/MathGame2/MathGame2/MathGame2/obj/Debug/net7.0/MathGame2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jj/Git/MathGame2/MathGame2/MathGame2/obj/Debug/net7.0/MathGame2.AssemblyInfoInputs.cache
+/Users/jj/Git/MathGame2/MathGame2/MathGame2/obj/Debug/net7.0/MathGame2.AssemblyInfo.cs
+/Users/jj/Git/MathGame2/MathGame2/MathGame2/obj/Debug/net7.0/MathGame2.csproj.CoreCompileInputs.cache
+/Users/jj/Git/MathGame2/MathGame2/MathGame2/obj/Debug/net7.0/MathGame2.dll
+/Users/jj/Git/MathGame2/MathGame2/MathGame2/obj/Debug/net7.0/refint/MathGame2.dll
+/Users/jj/Git/MathGame2/MathGame2/MathGame2/obj/Debug/net7.0/MathGame2.pdb
+/Users/jj/Git/MathGame2/MathGame2/MathGame2/obj/Debug/net7.0/MathGame2.genruntimeconfig.cache
+/Users/jj/Git/MathGame2/MathGame2/MathGame2/obj/Debug/net7.0/ref/MathGame2.dll
