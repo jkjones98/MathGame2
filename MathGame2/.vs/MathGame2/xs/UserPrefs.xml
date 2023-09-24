@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{17294617-BDA3-4A47-BB3E-83217AE185B2}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MathGame2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MathGame2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MathGame2/Program.cs">
+    <Files>
+      <File FileName="MathGame2/Program.cs" Line="8" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MathGame2" expanded="True">
+            <Node name="MathGame2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

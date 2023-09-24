@@ -6,6 +6,9 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Making changes");
+        Console.WriteLine("Updating this repository again");
+
+        Console.WriteLine("Another test push");
     }
 }
 
